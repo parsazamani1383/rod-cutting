@@ -21,3 +21,11 @@ This problem is a variation of the **Unbounded Knapsack Problem**.
 - Compares the output of all three algorithms.
 - Verifies whether all approaches yield the same optimal result.
 
+## 🙋‍♂️ About Me
+
+**👨‍💻 Name:** Parsa Zamani  
+**🎓 Field of Study:** Computer Engineering  
+**🧠 Interests:** Artificial Intelligence, Machine Learning, Backend Development, Algorithm Design  
+**📍 Location:** Iran  
+**📫 Email:** parsazamani.uok@gmail.com  
+**🐙 GitHub:** [github.com/parsazamani1383](https://github.com/parsazamani1383)
